@@ -1,0 +1,15 @@
+{
+  "component/emitter": "*",
+  "component/inherit": "*",
+  "component/moment": "*",
+  "component/t": "*",
+  "component/underscore": "*",
+  "p-baleine/CSS-Mobile-Reset": "*",
+  "p-baleine/js-flipsnap": "*",
+  "p-baleine/underscore-template-helpers": "*",
+  "p-baleine/zepto": "*",
+  "p-baleine/zepto-alert": "*",
+  "p-baleine/zepto-confirmation": "*",
+  "p-baleine/zepto-overlay": "*",
+  "solutionio/backbone": "*"
+}
