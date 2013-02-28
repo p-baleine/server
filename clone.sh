@@ -20,7 +20,7 @@ echo "Clonin github repositories"
 
 for repo in ${repositories[@]}
 do
-    `mkdir -p repos/${repo} && git clone https://github.com/${repo} repos/${repo}/master`
+    mkdir -p repos/${repo} && git clone https://github.com/${repo} repos/${repo}/master
 done
 
 exit 0
